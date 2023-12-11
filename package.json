@@ -1,5 +1,5 @@
 {
-  "name": "@unisonweb/terms-of-service",
+  "name": "@unison-lang/terms-of-service",
   "version": "1.0.0",
   "description": "Our Terms of Service, Privacy Policy, and other such documents",
   "scripts": {
