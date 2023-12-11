@@ -1,0 +1,8 @@
+{
+  "name": "@unisonweb/terms-of-service",
+  "version": "1.0.0",
+  "description": "Our Terms of Service, Privacy Policy, and other such documents",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
